@@ -1,0 +1,6 @@
+The main purpose of this program is that when we are dealing with a large number of numbers, instead of saving them all on our phone, we can read and use them from an Excel file.
+This program reads an Excel file containing 4 columns with names, first name, last name, school, and number. Then, by searching for a part of the combination of first name, last name, school with at least 2 characters, it shows a list of names that meet these conditions and their contact numbers. And it allows you to call the desired number by clicking on their name.
+Since I am not familiar enough with programming, I tried to use artificial intelligence for this, but unfortunately the result so far is an incomplete program that has a lot of errors.
+I am currently looking for help and solutions to solve the errors.
+Please do not hesitate to help in any way you can
+This program is very useful for people in my field of work
